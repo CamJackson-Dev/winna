@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.enjin.io	TRUE	/	FALSE	1999999999	__cfduid	ddf182e27df4bef5e26d886159264c2171601210651
+.enjin.io	TRUE	/	FALSE	1999999999	__cf_bm	cc49882eec4768b30daaa7060a09d59536445ad7-1601210651-1800-AaAsCVWHfQpQwZ7kb5VOG81C/uJVg3yqoYQ6zqkaqRm8EWvf1fqVlCqLJcAWZfsM+jAxy0OJR/f3xbp+OFJfhNA=
+enjin.io	TRUE	/	FALSE	1999999999	SameSite	None
+
